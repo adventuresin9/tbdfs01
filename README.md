@@ -29,7 +29,7 @@ Then run 'tbdfs -b $tbd-dir'
 
 by default it posts to /srv/tbdfs and mounts to /n/tbd
 
-##Use
+## Use
 
 'ls /n/tbd' outputs;
 /n/tbd/index  <- walks attribute/key
@@ -40,5 +40,5 @@ by default it posts to /srv/tbdfs and mounts to /n/tbd
 
 ls '/n/tbd/ℚ/arist/Pink Floyd' will return every file with the metadata 'artist/text/Pink Floyd'
 
-##Bugs
+## Bugs
 Probably.  This is just an early proof of concept.
