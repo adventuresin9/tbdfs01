@@ -1,6 +1,6 @@
 </$objtype/mkfile
 
-BIN=.
+BIN=$home/bin/$objtype
 TARG=tbdfs
 
 OFILES=\
